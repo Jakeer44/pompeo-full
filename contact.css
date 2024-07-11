@@ -1,0 +1,136 @@
+navbar {
+    height: 20px;
+    width: 1000px;
+    background-color: rgb(182, 230, 98);
+    margin-top: 20px;
+    font-size: 30px;
+    justify-content: space-between;
+}
+
+
+#back {
+    background-image: url("https://www.shutterstock.com/shutterstock/photos/2105607560/display_1500/stock-vector-abstract-orange-and-yellow-geometric-background-dynamic-shapes-composition-cool-background-design-2105607560.jpg"); 
+    width: 1252px;
+    height: 400px;
+    background-repeat: no-repeat; 
+    background-size: cover;        
+                      }
+  
+                      .front {
+                          
+                          height: 300px;
+                          width: 500px;
+                      }
+  .front h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(3, 110, 33);
+  margin-left: 10px;
+  margin-top: 20px;
+  }
+  
+  .front p  {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(80, 74, 171);
+  margin-left: 10px;
+  }
+
+
+  #bottle p {
+    text-align: center;
+    justify-content: center;
+    color: rgb(213, 79, 101);
+    height: 700px;
+    width: 1250px;
+    }
+    
+    
+    .slip {
+        margin-top: 20px;
+        height: 300px;
+        display: flex;
+        justify-content: space-between;
+    
+    }
+    
+    .jan {
+        margin-left: 10%;
+        margin-top: 10px;
+    }
+    
+    .feb {
+        justify-content: center;
+        margin-top: 40px;
+    }
+    
+    .mar {
+        margin-right: 15%;
+        margin-top: 40px;
+    }
+    
+    .image {
+        height: 300px;
+        width: 1250px;
+
+    }
+
+    
+#bottle p {
+    text-align: center;
+    justify-content: center;
+    color: rgb(68, 109, 245);
+    }
+    
+    .slip {
+        margin-top: 20px;
+        height: 300px;
+        display: flex;
+        justify-content: space-between;
+    
+    }
+    
+    .jan {
+        margin-left: 10%;
+        margin-top: 10px;
+    }
+    
+    .feb {
+        justify-content: center;
+        margin-top: 40px;
+    }
+    
+    .mar {
+        margin-right: 15%;
+        margin-top: 40px;
+    }
+    #bottom {
+        height: 70px;
+        width: 1250px;
+    background-color: rgb(254, 254, 253);
+    }
+    
+    #gel {
+        display: flex;
+    }
+    .pen {
+        margin-left: 20px;
+    }
+    .pen p {
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(12, 12, 13);
+        text-align: center;
+    }
+    .pen h5 {
+        text-align: start;
+        text-decoration: underline;
+    }
+    
+    .pan {
+        margin-left: 320px;
+    }
+    
+    .pan h5 {
+        text-align:end;
+        text-decoration: underline;
+        justify-content: end;
+    }
+    
